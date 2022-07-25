@@ -8,6 +8,7 @@ public class SimpleTest {
 		System.out.println("hi");
 		System.out.println("bye");
 		System.out.println("....");
+		//welcome
 	}
 
 }
